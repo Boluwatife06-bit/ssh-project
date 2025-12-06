@@ -1,4 +1,4 @@
-# ssh-project
+# SOC ANalysis-project
 ssh projeck and tools used basicaly a SOC analysis home lab/server
 🔧 1. Creating the Ubuntu Server in VirtualBox
 Download ISO
